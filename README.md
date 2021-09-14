@@ -17,5 +17,11 @@ Ross Virtual Assistant is a programme which can play Music, search Wikipedia, op
 - It will tell you the time if you say `what is the time`.
 - It can open the source code of the file if you say `open code` however the directory to the file should be specified.
 
+## Note: 
+If the `setup.py` doesn't work or error is shown, please install the following modules manually:
+- pip install pyttsx3
+- pip install SpeechRecognition
+- pip install wikipedia
+
 ## Made with Python 3.9.7 and works with Python 3.x
 
