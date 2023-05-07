@@ -1,27 +1,44 @@
-# Ross-Virtual-Assistant
-Ross Virtual Assistant is a programme which can play Music, search Wikipedia, open Websites and much more. 
 
-## Installation
+![Downloads](https://img.shields.io/github/downloads/JehanPatel/Ross-Virtual-Assistant/total) ![Contributors](https://img.shields.io/github/contributors/JehanPatel/Ross-Virtual-Assistant?color=dark-green) ![Forks](https://img.shields.io/github/forks/JehanPatel/Ross-Virtual-Assistant?style=social) ![Stargazers](https://img.shields.io/github/stars/JehanPatel/Ross-Virtual-Assistant?style=social) ![Issues](https://img.shields.io/github/issues/JehanPatel/Ross-Virtual-Assistant) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [Authors](#authors)
+
+## About The Project
+
+Ross Virtual Assistant is a programme which can play Music, search Wikipedia, open Websites and much more.
+
+
+## Getting Started
+
+To get started, follow the given steps to install the requirements.
+
+### Installation
+
 - Download the repository as a .zip file.
 - After downloading, extract all the files to the same folder.
 - Now run `setup.py` file.
 - The Necessary Modules will be installed (Follow the Instructions in the file).
 - Now the app should be up and running.
 
-## Features
-- Assistant will greet you according to the time of the day.
-- It will listen to you and convert speech to text.
-- It can play music if you say `play music` however the directory to the music file should be specified.
-- It can search the wikipedia if you say `open wikipedia [what you want to search]`.
-- It can open websites like Google, Gmail, Youtube if you say `open google / open gmail / opem youtube`.
-- It will tell you the time if you say `what is the time`.
-- It can open the source code of the file if you say `open code` however the directory to the file should be specified.
+## Roadmap
 
-## Note: 
-If the `setup.py` doesn't work or error is shown, please install the following modules manually:
-- pip install pyttsx3
-- pip install SpeechRecognition
-- pip install wikipedia
+See the [open issues](https://github.com/JehanPatel/Ross-Virtual-Assistant/issues) for a list of proposed features (and known issues).
 
-## Made with Python 3.9.7 and works with Python 3.x
+## Contributing
 
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/JehanPatel/Ross-Virtual-Assistant/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/JehanPatel/Ross-Virtual-Assistant/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+## Authors
+
+* **Jehan Patel** - *CSE Core student* - [Jehan Patel](https://github.com/JehanPatel)
